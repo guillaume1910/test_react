@@ -1,0 +1,38 @@
+const data = [{
+    id: '/users/13',
+    display: 'Jeremie loosfelt',
+  },
+  {
+    id: '/users/14',
+    display: 'Guillaume perlein',
+  },
+  {
+    id: '/users/15',
+    display: 'Patrik Warshol',
+  },
+  {
+    id: '/users/78',
+    display: 'Clercin Kevin',
+  },
+  {
+    id: '/users/13',
+    display: 'Alban leclercq',
+  },
+  {
+    id: '/users/987',
+    display: 'Romain despatures',
+  },
+  {
+    id: '/company/12',
+    display: '9troisquarts'
+  }, {
+    id: '/company/13',
+    display: 'Google',
+  }, {
+    id: '/company/14',
+    display: 'Auchan'
+  }, {
+    id: '/company/15',
+    display: 'Carrefour'
+  }
+]
